@@ -15,8 +15,11 @@
 请求参数:
 
 · q: Beijing
-· appid: 3bdae6bc23400dd343732b88d0497080
+
+· appid: `YOU_OPENWEATHER_API_KEY`<!--请在此替换为您自己的API密钥 -->
+
 · units: metric
+
 · lang: zh
 
 ## 测试结果
@@ -29,4 +32,5 @@
 ![API测试成功](images/api-test.png)
 
 ## 学习收获
+
 通过这个项目，我掌握了RESTful API的基本使用方法，能够独立完成接口测试和数据获取。
