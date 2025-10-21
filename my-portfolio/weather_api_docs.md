@@ -29,9 +29,10 @@
 - 成功获取北京坐标和天气信息
 
 ## 测试截图
-![API测试成功](./images/api-test.png)
+![API测试成功](./images/api-text.png)
 
 ## 学习收获
 
 通过这个项目，我掌握了RESTful API的基本使用方法，能够独立完成接口测试和数据获取。
+
 
