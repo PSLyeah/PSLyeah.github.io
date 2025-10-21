@@ -5,7 +5,7 @@
 ## 我的项目
 
 - [开源贡献：First Contributions](https://github.com/PSLyeah/first-contributions/pull/1)
-- [API文档：OpenweatherMap Api指南](./README.md) 
+- [API文档：OpenweatherMap Api指南](https://github.com/PSLyeah/PSLyeah.github.io/blob/main/my-portfolio/weather_api_docs.md) 
 - [学习笔记：Git 与 GitHub](./git-notes.md)
 
 ## 掌握的技能
